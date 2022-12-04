@@ -901,8 +901,8 @@ main .admins a{
 
 @media (max-width: 768px){
     .main-container .top-bar .top-right .profile{
-        margin-top: -52px;
-        /* padding: 10px 0 !important; */
+        margin-top: -53px;
+        padding: 0px 0;
     }
 
     .main-container .top-bar .top-right .theme-toggler{
